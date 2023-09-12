@@ -10,7 +10,7 @@ This Jupyter Notebook contains a comprehensive descriptive statistical analysis 
 4. Execute the code cells step by step to replicate the analysis or modify it for your specific dataset.
 5. import dataset
 
-Aknowledgemen: Data provided by Google Learning under fair us copyright.
+Aknowledgemen: Data provided by Google Learning under fair use.
 
 ## Requirements 
 
