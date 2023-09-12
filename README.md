@@ -10,6 +10,8 @@ This Jupyter Notebook contains a comprehensive descriptive statistical analysis 
 4. Execute the code cells step by step to replicate the analysis or modify it for your specific dataset.
 5. import dataset
 
+Aknowledgemen: Data provided by Google Learning under fair us copyright.
+
 ## Requirements 
 
 
@@ -21,5 +23,5 @@ from scipy import stats
 import statsmodels.api as sm
 
 
-Aknowledgement: Dataset used is provided by Google Learning and do not own this dataset.
+
 
